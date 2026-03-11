@@ -11,7 +11,13 @@ This tool provides structured email and phone templates across every stage of th
 The goal is to outgrow it.
 
 ---
+## Tech Stack
 
+- React 18
+- Vite 5
+- JavaScript (JSX)
+- Deployed via GitHub Pages
+---
 ## Getting Started
 
 ### Prerequisites
@@ -45,11 +51,11 @@ The output will be in the `dist/` folder, ready to deploy to GitHub Pages, Netli
 
 ## Features
 
-- **Email templates** — salary negotiation, networking, applying to jobs, interviewing
-- **Phone talking points** — same categories, structured for calls
-- **About tab** — the story behind why this was built
-- **Minimized floating widget** — drag it anywhere on screen; keep it next to your email or LinkedIn as a live reference
-- **Copy button** — one click to copy the full message or talking points
+- **Email templates**: salary negotiation, networking, applying to jobs, interviewing
+- **Phone talking points**: same categories, structured for calls
+- **About tab**: the story behind why this was built
+- **Minimized floating widget**: drag it anywhere on screen; keep it next to your email or LinkedIn as a live reference
+- **Copy button**: one click to copy the full message or talking points
 
 ---
 
